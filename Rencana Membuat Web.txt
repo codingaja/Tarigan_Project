@@ -1,0 +1,5 @@
+Rencana Membuat Website Pariwisata Kota Jogja
+- Membuat Halaman Index
+- Membuat Halaman Login
+- Menampilkan Image Lokasi Wisata
+- Membuat Deskripsi masing - masing lokasi wisata
