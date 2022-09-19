@@ -3,6 +3,6 @@
 <title>HTML di GITHUB</title>
 </head>
 <body>
-Selamat Datang di Web Jomblo Akut
+Semoga sukses dan kuliah
 </body>
 </html>
